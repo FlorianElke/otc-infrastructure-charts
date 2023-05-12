@@ -26,6 +26,12 @@ website: |-
           <a href="my-service/" class="tile">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" alt="My Service">
           </a>
+          <a href="kibana/" class="tile">
+              <img src="https://banner2.cleanpng.com/20180802/xcg/kisspng-kibana-elasticsearch-scalable-vector-graphics-logo-elastic-kibana-logo-svg-vector-amp-png-transpare-5b62e40d7ea162.8312868815332075655187.jpg" alt="My Service">
+          </a>
+          <a href="elasticsearch/" class="tile">
+              <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="My Service">
+          </a>
       </div>
   </div>
   </body>
